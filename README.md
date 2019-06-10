@@ -18,7 +18,10 @@ vous pouvez télécharger un fichier d'installation python à cette adresse: htt
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
 # RESSOURCES
+*[Python pour débutant](https://docs.microsoft.com/fr-fr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019)*
+
 *[Python pour débutant](https://python-django.dev/)*
+
 *[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*
 
- *[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation)* 
+*[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation)* 

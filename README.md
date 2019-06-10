@@ -15,6 +15,10 @@ Si vous travaillez dans un environnement Linux ou MacOS : bonne nouvelle Python 
 vous pouvez télécharger un fichier d'installation python à cette adresse: https://www.python.org/downloads/
 
 ### Quelle version choisir?
-Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7 
+Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
+
+# RESSOURCES
+*[Python pour débutant](https://python-django.dev/)*
+*[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*
 
  *[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation)* 

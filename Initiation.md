@@ -21,11 +21,18 @@
     *Ajouter le nombre 25 en dernière position ; afficher L
     *Afficher la longueur de la liste
     *Supprimer un élément 43 de L ; afficher L
-    Renverser l'ordre de L ; afficher L
+    *Renverser l'ordre de L ; afficher L
     *Trier L ; afficher L
     *Supprimer le dernier élément ; afficher L
 
 # 3. Conditions
+
+* Écrire un programme qui demande l'âge de l'utilisateur. Si l'utilisateur a 18 ans ou plus, le programme devra afficher « Bonjour,  vous êtes majeur.». Si l'utilisateur a moins de 18 ans, le programme devra afficher « Bonjour, tu es mineur.»
+
+# 4. Boucle
+
+* Écrire une boucle while qui compte jusqu'à 100. Idem avec une boucle for. 
+* Suggestion : utilisez la fonction range(n), cherchez la dans la documentation.
 
 
 

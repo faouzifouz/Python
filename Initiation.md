@@ -6,3 +6,4 @@
  1. Ouvrir un terminal et lancer python. Notez quelle version de python est utilisée.
  2. Faire afficher votre prénom suivi de votre nom séparés par un espace.
  3. Créer une variable nommée espece et mettez y la valeur E. coli ; afficher le contenu de la variable.
+ 

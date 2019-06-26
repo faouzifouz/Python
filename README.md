@@ -32,4 +32,5 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 # C 'est parti !
 
 *[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 
+
 *[Part2](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 

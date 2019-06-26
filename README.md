@@ -21,6 +21,12 @@ Si vous travaillez dans un environnement Linux ou MacOS : bonne nouvelle Python 
 
 vous pouvez télécharger un fichier d'installation python à cette adresse: https://www.python.org/downloads/
 
+### Installer Anaconda
+
+vous pouvez télécharger un fichier d'installation à cette adresse : https://www.anaconda.com/distribution/
+
+Une fois tout ça installé ouvrer **Anaconda Navigator** et lancer **Jupyter notebook**
+
 ### Quelle version choisir?
 
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7

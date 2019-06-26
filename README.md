@@ -33,6 +33,9 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 # RESSOURCES
 
+
+*[Doc Jupyter](https://jupyter.org/documentation)*
+
 *[Python pour débutant](https://python-django.dev/)*
 
 *[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*

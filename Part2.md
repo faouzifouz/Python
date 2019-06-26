@@ -27,7 +27,7 @@
 
 * Bonus: Modifier ce programme pour que si l'utilisateur entre un nombre inférieur à 1 ou supérieur 9, le programme lui pose de      nouveau la question : « Quelle table désirez-vous ? ».
 
-#Petit jeux
+# Petit jeux
 
-##Écrire un programme dont le but est de faire deviner un nombre entier compris entre 0 et 100 choisi par l'ordinateur. À chaque essai, le programme devra rendre «Gagné !» si le nombre a été deviné, ou «Trop petit» ou «Trop grand» suivant la position du nombre proposé. On pourra également donner le nombre d'essais
+## Écrire un programme dont le but est de faire deviner un nombre entier compris entre 0 et 100 choisi par l'ordinateur. À chaque essai, le programme devra rendre «Gagné !» si le nombre a été deviné, ou «Trop petit» ou «Trop grand» suivant la position du nombre proposé. On pourra également donner le nombre d'essais
 

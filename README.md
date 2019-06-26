@@ -9,17 +9,19 @@ Python est un langage de programmation interprété, c'est-à-dire qu'il n'est p
 # Installation
 
 ### Installer python sur Linux ou MacOS 
+
 Si vous travaillez dans un environnement Linux ou MacOS : bonne nouvelle Python déjà installé! 
-*[Pour utiliser Python sur Ubuntu par exemple, lancez un terminal: ](https://python-django.dev/page-utiliser-interpreteur-python)*
+*[Pour utiliser Python sur Ubuntu par exemple, lancez un terminal ](https://python-django.dev/page-utiliser-interpreteur-python)*
 
 ### Installer python sur Windows 
+
 vous pouvez télécharger un fichier d'installation python à cette adresse: https://www.python.org/downloads/
 
 ### Quelle version choisir?
+
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
 # RESSOURCES
-*[Python pour débutant](https://docs.microsoft.com/fr-fr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-00-installation?view=vs-2019)*
 
 *[Python pour débutant](https://python-django.dev/)*
 

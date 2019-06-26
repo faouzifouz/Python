@@ -10,6 +10,7 @@ Python est un langage de programmation interprété, c'est-à-dire qu'il n'est p
 
 ### Installer python sur Linux ou MacOS 
 Si vous travaillez dans un environnement Linux ou MacOS : bonne nouvelle Python déjà installé! 
+*[Pour utiliser Python sur Ubuntu par exemple, lancez un terminal: ](https://python-django.dev/page-utiliser-interpreteur-python)*
 
 ### Installer python sur Windows 
 vous pouvez télécharger un fichier d'installation python à cette adresse: https://www.python.org/downloads/

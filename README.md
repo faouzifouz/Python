@@ -3,7 +3,7 @@
 #### Présenter par Titah Mohamed Faouzi
 
 # Python
-[gdfgdfg](https://github.com/faouzifouz/Python/blob/master/python.jpg "python logo" )
+(https://github.com/faouzifouz/Python/blob/master/python.jpg)
 ## Python c'est quoi?
 
 Python est un langage de programmation inventé par Guido van Rossum. La première version de python est sortie en 1991.

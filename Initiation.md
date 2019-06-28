@@ -24,7 +24,8 @@
     *Renverser l'ordre de L ; afficher L
     *Trier L ; afficher L
     *Supprimer le dernier élément ; afficher L
-
+    
+![](https://github.com/faouzifouz/Python/blob/master/conditions.PNG)
 # 3. Conditions  
 ### Aller voir la fonction input() dans la doc.
 * Ecrire un programme qui demande qui demande 2 nombre et rend le plus grand.

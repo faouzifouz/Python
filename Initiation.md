@@ -9,7 +9,7 @@
  4. Afficher les résultats suivant : 10+2, 50-32, 30*12, 100/10
 
  # 2. Liste/Array
-
+![](https://github.com/faouzifouz/Python/blob/master/liste.PNG)
  ## Créer une liste en python 
 
  1. Valeur à mettre dans la liste : Pomme, Poire, Pêche.

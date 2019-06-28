@@ -1,6 +1,6 @@
 
 # 1. Préliminaires
-
+![](https://github.com/faouzifouz/Python/blob/master/debut.PNG)
 ## Prise en main
 
  1. Ouvrir un terminal et lancer python. Notez quelle version de python est utilisée.

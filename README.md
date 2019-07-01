@@ -25,6 +25,8 @@ vous pouvez télécharger un fichier d'installation python à cette adresse: htt
 
 vous pouvez télécharger un fichier d'installation à cette adresse : https://www.anaconda.com/distribution/
 
+Pour Ubuntu : https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
+
 Une fois tout ça installé ouvrer **Anaconda Navigator** et lancer **Jupyter notebook**
 
 ### Quelle version choisir?

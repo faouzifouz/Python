@@ -29,6 +29,8 @@ Pour Ubuntu : https://www.digitalocean.com/community/tutorials/how-to-install-an
 
 Une fois tout ça installé ouvrer **Anaconda Navigator** et lancer **Jupyter notebook**
 
+anaconda-navigator (commande pour ubuntu)
+
 ### Quelle version choisir?
 
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7

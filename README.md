@@ -11,6 +11,7 @@ Python est un langage de programmation inventé par Guido van Rossum. La premiè
 Python est un langage de programmation interprété, c'est-à-dire qu'il n'est pas nécessaire de le compiler avant de l'exécuter. Si vous avez déjà touché un peu à la programmation, vous verrez que ce langage possède une certaine poésie. Les programmeurs s'amusent souvent à trouver la manière la plus jolie/efficace d'écrire une suite d'instructions. Rares sont ceux qui critiquent la logique Python -contrairement à javascript par exemple-. 
 
 # Installation
+###  Ici nous utiliserons Google Colab, un environnement Jupyter notebook ne nécessitant aucune configuration, qui s'exécute dans le cloud pour que tout le monde puisse travailler directement sans passer par l installation.
 
 ### Installer python sur Linux ou MacOS 
 
@@ -45,6 +46,6 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 *[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*
 # C 'est parti !
 
-*[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 
+*[Debuter](https://colab.research.google.com/drive/1EV6VXqhlcv37G90Tn6wwlOBniJfDbMhb#scrollTo=YEK8LxrArFIh)* 
 
-*[Part2](https://github.com/faouzifouz/Python/blob/master/Part2.md)* 
+*[Part2](https://colab.research.google.com/drive/1zrlYP34O25feVKf5ymyfURj5v2DXnfx_)* 

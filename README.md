@@ -48,4 +48,4 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 *[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 
 
-*[Part2](https://colab.research.google.com/drive/1zrlYP34O25feVKf5ymyfURj5v2DXnfx_)* 
+*[Part2](https://github.com/faouzifouz/Python/blob/master/Part2.md)* 

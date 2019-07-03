@@ -36,6 +36,15 @@ anaconda-navigator (commande pour ubuntu)
 
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
+# Initiation
+
+* Variables - calcul - interaction utilisateur 
+* Liste/Array
+* Conditions
+* Boucles
+* Fonctions
+
+
 # RESSOURCES
 
 

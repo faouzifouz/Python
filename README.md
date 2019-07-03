@@ -46,6 +46,6 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 *[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*
 # C 'est parti !
 
-*[Debuter](https://colab.research.google.com/drive/1EV6VXqhlcv37G90Tn6wwlOBniJfDbMhb#scrollTo=YEK8LxrArFIh)* 
+*[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 
 
 *[Part2](https://colab.research.google.com/drive/1zrlYP34O25feVKf5ymyfURj5v2DXnfx_)* 

@@ -47,7 +47,9 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 # Initiation c 'est parti !
 
 *[Variables - calcul - interaction utilisateur](https://github.com/faouzifouz/Python/blob/master/1.%20Prise%20en%20main.ipynb)*
+
 *[Liste/Array](https://github.com/faouzifouz/Python/blob/master/Liste-Array%20v.ipynb)*
+
 * Conditions
 * Boucles
 * Fonctions

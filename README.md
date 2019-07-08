@@ -33,6 +33,7 @@ Savoir jouer avec les bases de Python :
 * Boucles
 * Fonctions
 * Modules
+* Creer un petit programme
 
 ### Installer python sur Windows 
 

@@ -37,8 +37,9 @@ anaconda-navigator (commande pour ubuntu)
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
 # Initiation
-### Aie Confiance ... 
-![](https://github.com/faouzifouz/Python/blob/master/jungle.jpg)
+
+![](https://github.com/faouzifouz/Python/blob/master/junglegif.gif)
+### Crois en moi ... 
 
 * Variables - calcul - interaction utilisateur 
 * Liste/Array

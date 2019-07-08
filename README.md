@@ -38,7 +38,7 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 # Initiation
 ### Aie Confiance ... 
-!([]https://github.com/faouzifouz/Python/blob/master/jungle.jpg)
+![](https://github.com/faouzifouz/Python/blob/master/jungle.jpg)
 
 * Variables - calcul - interaction utilisateur 
 * Liste/Array

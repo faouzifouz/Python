@@ -44,10 +44,10 @@ anaconda-navigator (commande pour ubuntu)
 
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
-# Initiation
+# Initiation c 'est parti !
 
 *[Variables - calcul - interaction utilisateur](https://github.com/faouzifouz/Python/blob/master/1.%20Prise%20en%20main.ipynb)*
-* Liste/Array
+*[Liste/Array](https://github.com/faouzifouz/Python/blob/master/Liste-Array%20v.ipynb)*
 * Conditions
 * Boucles
 * Fonctions
@@ -61,8 +61,4 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 *[Python pour débutant](https://python-django.dev/)*
 
 *[Apprendre a programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230659-decouvrez-python)*
-# C 'est parti !
 
-*[Debuter](https://github.com/faouzifouz/Python/blob/master/Initiation.md)* 
-
-*[Part2](https://github.com/faouzifouz/Python/blob/master/Part2.md)* 

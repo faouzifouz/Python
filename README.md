@@ -10,13 +10,29 @@ Python est un langage de programmation inventé par Guido van Rossum. La premiè
 
 Python est un langage de programmation interprété, c'est-à-dire qu'il n'est pas nécessaire de le compiler avant de l'exécuter. Si vous avez déjà touché un peu à la programmation, vous verrez que ce langage possède une certaine poésie. Les programmeurs s'amusent souvent à trouver la manière la plus jolie/efficace d'écrire une suite d'instructions. Rares sont ceux qui critiquent la logique Python -contrairement à javascript par exemple-. 
 
+Il permet de faire virtuellement n'importe quoi : Du scripting, des jeux, des logiciels, des serveurs, ... du machine learning ;)
+
 # Installation
-###  Ici nous utiliserons Google Colab, un environnement Jupyter notebook ne nécessitant aucune configuration, qui s'exécute dans le cloud pour que tout le monde puisse travailler directement sans passer par l installation.
+###  Ici nous utiliserons  un environnement Jupyter notebook
 
 ### Installer python sur Linux ou MacOS 
 
 Si vous travaillez dans un environnement Linux ou MacOS : bonne nouvelle Python déjà installé! 
 *[Pour utiliser Python sur Ubuntu par exemple, lancez un terminal ](https://python-django.dev/page-utiliser-interpreteur-python)*
+
+# Objectif du Workshop 
+
+![](https://github.com/faouzifouz/Python/blob/master/junglegif.gif)
+### Crois en moi ... 
+
+Savoir jouer avec les bases de Python :
+
+* Variables - calcul - interaction utilisateur 
+* Liste/Array
+* Conditions
+* Boucles
+* Fonctions
+* Modules
 
 ### Installer python sur Windows 
 
@@ -37,9 +53,6 @@ anaconda-navigator (commande pour ubuntu)
 Essayez de prendre la version la plus récente / stable. À noter que la version la plus utilisée aujourd'hui est la version 3.7
 
 # Initiation
-
-![](https://github.com/faouzifouz/Python/blob/master/junglegif.gif)
-### Crois en moi ... 
 
 * Variables - calcul - interaction utilisateur 
 * Liste/Array

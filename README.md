@@ -11,6 +11,11 @@ Python est un langage de programmation inventé par Guido van Rossum. La premiè
 Python est un langage de programmation interprété, c'est-à-dire qu'il n'est pas nécessaire de le compiler avant de l'exécuter. Si vous avez déjà touché un peu à la programmation, vous verrez que ce langage possède une certaine poésie. Les programmeurs s'amusent souvent à trouver la manière la plus jolie/efficace d'écrire une suite d'instructions. Rares sont ceux qui critiquent la logique Python -contrairement à javascript par exemple-. 
 
 Il permet de faire virtuellement n'importe quoi : Du scripting, des jeux, des logiciels, des serveurs, ... du machine learning ;)
+
+Il se veut être un langage simple
+
+![](https://github.com/faouzifouz/Python/blob/master/intro.PNG)
+
 # Objectif du Workshop 
 
 ![](https://github.com/faouzifouz/Python/blob/master/junglegif.gif)

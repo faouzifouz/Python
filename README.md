@@ -60,6 +60,8 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 *[Fonctions et modules](https://github.com/faouzifouz/Python/blob/master/Fonctions%20et%20Modules.ipynb)*
 
+*[Mini programme](https://github.com/faouzifouz/Python/blob/master/Mini%20programmes.ipynb)*
+
 
 # RESSOURCES
 

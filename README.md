@@ -55,7 +55,7 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 *[Liste/Array](https://github.com/faouzifouz/Python/blob/master/Liste-Array%20v.ipynb)*
 
-* Conditions
+*[Conditions](https://github.com/faouzifouz/Python/blob/master/Conditions.ipynb)*
 
 * Boucles
 

@@ -27,8 +27,7 @@ Savoir jouer avec les bases de Python :
 * Liste/Array
 * Conditions
 * Boucles
-* Fonctions
-* Modules
+* Fonctions/modules
 * Creer un petit programme
 
 # Installation
@@ -57,7 +56,7 @@ Essayez de prendre la version la plus récente / stable. À noter que la version
 
 *[Conditions](https://github.com/faouzifouz/Python/blob/master/Conditions.ipynb)*
 
-* Boucles
+*[Boucles](https://github.com/faouzifouz/Python/blob/master/Boucles.ipynb)*
 
 *[Fonctions et modules](https://github.com/faouzifouz/Python/blob/master/Fonctions%20et%20Modules.ipynb)*
 
